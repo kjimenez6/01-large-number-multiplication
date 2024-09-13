@@ -1,0 +1,17 @@
+Part 2 of Large number multiplication.
+describe any red, yellow, or green level issues with your code. 
+For red and yellow issues, discuss what led to them;
+
+Yellow:
+When it came to initializing the code I thought we were unable to use If statements due to the first assignment. 
+Red: 
+I believe my code was not specific enough for which numbers were meant to be used. It was very broad. 
+
+suggest how the code could be improved;
+ - A way my code could be improved would be to curate more time and focus on it. I didn't plan the code other priorly and it was definitely noticeable when it came to figuring 
+out a code for the days of the week. 
+reflect if the quality of your code is related to time management and how to mitigate things.
+- The quality of my code was related to time management. I was working on it for some time and could not figure out how to initialize a
+method for the days of the week. 
+- I was struggling for a few hours and due to not having more spare time during the day I was unable to figure out
+what else to add to my code. 
